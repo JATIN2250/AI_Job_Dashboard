@@ -9,7 +9,7 @@ import ast
 # Loading data
 @st.cache_data
 def load_data():
-    df = pd.read_csv("AI_job_data.csv")
+    df = pd.read_csv("Dataset//AI_job_data.csv")
     return df
 
 df = load_data()
