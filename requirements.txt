@@ -5,5 +5,3 @@ plotly==6.1.2
 plotly-express==0.4.1
 seaborn==0.13.2
 streamlit==1.45.1
-sympy==1.13.1
-formsubmit
