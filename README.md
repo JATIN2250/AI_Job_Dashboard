@@ -99,3 +99,11 @@ Alternatively, contact us via:
 This project is open-source under the MIT License
 
 
+## App Link
+
+To view my app click below given link
+(If using a mobile phone then please enable the "Desktop Site")
+
+App Link : [https://aijobdashboard-5xg2vbjukqe3kmrwkvs5zh.streamlit.app/]
+
+
